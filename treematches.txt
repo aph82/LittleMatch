@@ -1,0 +1,18 @@
+ Abies concolor
+ Abies magnifica
+ Artemisia tridentata
+ Cercocarpus ledifolius
+ Fremontodendron californicum
+ Juniperus occidentalis
+ Pinus albicaulis
+ Pinus balfouriana
+ Pinus contorta
+ Pinus flexilis
+ Pinus jeffreyi
+ Pinus lambertiana
+ Pinus monophylla
+ Pinus monticola
+ Pinus ponderosa
+ Populus tremuloides
+ Tsuga mertensiana
+
