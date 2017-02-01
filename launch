@@ -1,0 +1,4 @@
+#!/bin/sh
+
+echo '.read taxaquery.sql' | sqlite3 /Users/averyhill/Desktop/Summer_2016/BEST_FILE_YET_11.1/fbookdb.sql
+perl treematch.pl
